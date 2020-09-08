@@ -1,0 +1,7 @@
+domain/PersonService.class
+application/JaxRsActivator.class
+application/BasePersonDTO.class
+domain/PersonRepository.class
+application/FullPersonDTO.class
+domain/Person.class
+application/PersonResource.class
